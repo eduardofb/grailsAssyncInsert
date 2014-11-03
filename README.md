@@ -1,2 +1,2 @@
-grailsAssynInsert
+Grails Assync Insert Example
 =================
