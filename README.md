@@ -1,0 +1,2 @@
+grailsAssynInsert
+=================
